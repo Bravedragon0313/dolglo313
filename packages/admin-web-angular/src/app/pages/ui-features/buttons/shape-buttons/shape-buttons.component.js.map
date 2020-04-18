@@ -1,0 +1,1 @@
+{"version":3,"file":"shape-buttons.component.js","sourceRoot":"","sources":["shape-buttons.component.ts"],"names":[],"mappings":";AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAO1C,IAAa,qBAAqB,GAAlC,MAAa,qBAAqB;CAAG,CAAA;AAAxB,qBAAqB;IALjC,SAAS,CAAC;QACV,QAAQ,EAAE,mBAAmB;QAC7B,SAAS,EAAE,CAAC,gCAAgC,CAAC;QAC7C,WAAW,EAAE,gCAAgC;KAC7C,CAAC;GACW,qBAAqB,CAAG;SAAxB,qBAAqB"}

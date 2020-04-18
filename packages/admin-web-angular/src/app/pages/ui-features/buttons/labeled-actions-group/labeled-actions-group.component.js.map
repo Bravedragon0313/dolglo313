@@ -1,0 +1,1 @@
+{"version":3,"file":"labeled-actions-group.component.js","sourceRoot":"","sources":["labeled-actions-group.component.ts"],"names":[],"mappings":";AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAO1C,IAAa,4BAA4B,GAAzC,MAAa,4BAA4B;CAAG,CAAA;AAA/B,4BAA4B;IALxC,SAAS,CAAC;QACV,QAAQ,EAAE,2BAA2B;QACrC,SAAS,EAAE,CAAC,wCAAwC,CAAC;QACrD,WAAW,EAAE,wCAAwC;KACrD,CAAC;GACW,4BAA4B,CAAG;SAA/B,4BAA4B"}

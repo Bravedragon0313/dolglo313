@@ -1,0 +1,1 @@
+{"version":3,"file":"roleProvider.js","sourceRoot":"","sources":["roleProvider.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AACnD,OAAO,EAAE,EAAE,IAAI,YAAY,EAAE,MAAM,MAAM,CAAC;AAE1C,MAAM,OAAO,kBAAmB,SAAQ,cAAc;IACrD,OAAO;QAEN,OAAO,YAAY,CAAC,OAAO,CAAC,CAAC;IAC9B,CAAC;CACD"}
